@@ -1,0 +1,149 @@
+[12Jul2020 23:50:03.424] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--width, 854, --height, 480, --username, Lethosos, --version, 1.15.2, --gameDir, C:\_gdl\instances\Create Parkor Test Pack, --assetsDir, C:\_gdl\datastore\assets, --assetIndex, 1.15, --uuid, b59801373b26442a94cf665c3b730ce8, --accessToken, ????????, --userType, mojang, --versionType, release, --launchTarget, fmlclient, --fml.forgeVersion, 31.2.31, --fml.mcVersion, 1.15.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20200515.085601]
+[12Jul2020 23:50:03.427] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 5.1.0+69+master.79f13f7 starting: java version 1.8.0_242 by AdoptOpenJDK
+[12Jul2020 23:50:03.768] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[12Jul2020 23:50:05.453] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlclient' with arguments [--version, 1.15.2, --gameDir, C:\_gdl\instances\Create Parkor Test Pack, --assetsDir, C:\_gdl\datastore\assets, --uuid, b59801373b26442a94cf665c3b730ce8, --width, 854, --height, 480, --username, Lethosos, --assetIndex, 1.15, --accessToken, ????????, --userType, mojang, --versionType, release]
+[12Jul2020 23:50:06.780] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Lethosos
+[12Jul2020 23:50:12.518] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.2.2 build 10
+[12Jul2020 23:50:14.155] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `walljump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[12Jul2020 23:50:14.156] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `doublejump`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[12Jul2020 23:50:14.157] [Render thread/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `walljump` for name `speedboost`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[12Jul2020 23:50:14.215] [modloading-worker-13/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 31.2.31, for MC 1.15.2 with MCP 20200515.085601
+[12Jul2020 23:50:14.216] [modloading-worker-13/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v31.2.31 Initialized
+[12Jul2020 23:50:17.333] [Render thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity super_glue
+[12Jul2020 23:50:17.333] [Render thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity contraption
+[12Jul2020 23:50:17.333] [Render thread/WARN] [net.minecraft.entity.EntityType/]: No data fixer registered for entity stationary_contraption
+[12Jul2020 23:50:17.992] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[12Jul2020 23:50:18.019] [Render thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Mod Resources
+[12Jul2020 23:50:18.050] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\_gdl\instances\Create Parkor Test Pack\config\create-client.toml is not correct. Correcting
+[12Jul2020 23:50:18.053] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.054] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.enableTooltips was corrected from null to true
+[12Jul2020 23:50:18.054] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.enableOverstressedTooltip was corrected from null to true
+[12Jul2020 23:50:18.054] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.explainRenderErrors was corrected from null to false
+[12Jul2020 23:50:18.055] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.fanParticleDensity was corrected from null to 0.5
+[12Jul2020 23:50:18.055] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.enableRainbowDebug was corrected from null to true
+[12Jul2020 23:50:18.055] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.overlayOffsetX was corrected from null to 0
+[12Jul2020 23:50:18.055] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.overlayOffsetY was corrected from null to 0
+[12Jul2020 23:50:18.092] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\_gdl\instances\Create Parkor Test Pack\config\create-common.toml is not correct. Correcting
+[12Jul2020 23:50:18.093] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.094] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1 was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.094] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.disableWorldGen was corrected from null to false
+[12Jul2020 23:50:18.094] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.094] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore.enable was corrected from null to true
+[12Jul2020 23:50:18.095] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore.clusterSize was corrected from null to 18
+[12Jul2020 23:50:18.095] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore.clusterCount was corrected from null to 2
+[12Jul2020 23:50:18.095] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore.minHeight was corrected from null to 40
+[12Jul2020 23:50:18.095] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore.maxHeight was corrected from null to 86
+[12Jul2020 23:50:18.095] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore_ocean was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.095] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore_ocean.enable was corrected from null to true
+[12Jul2020 23:50:18.096] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore_ocean.clusterSize was corrected from null to 15
+[12Jul2020 23:50:18.096] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore_ocean.clusterCount was corrected from null to 4
+[12Jul2020 23:50:18.096] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore_ocean.minHeight was corrected from null to 20
+[12Jul2020 23:50:18.096] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.copper_ore_ocean.maxHeight was corrected from null to 55
+[12Jul2020 23:50:18.096] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.096] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore.enable was corrected from null to true
+[12Jul2020 23:50:18.096] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore.clusterSize was corrected from null to 14
+[12Jul2020 23:50:18.097] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore.clusterCount was corrected from null to 4
+[12Jul2020 23:50:18.097] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore.minHeight was corrected from null to 15
+[12Jul2020 23:50:18.097] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore.maxHeight was corrected from null to 70
+[12Jul2020 23:50:18.097] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore_desert was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.097] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore_desert.enable was corrected from null to true
+[12Jul2020 23:50:18.098] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore_desert.clusterSize was corrected from null to 17
+[12Jul2020 23:50:18.098] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore_desert.clusterCount was corrected from null to 5
+[12Jul2020 23:50:18.098] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore_desert.minHeight was corrected from null to 10
+[12Jul2020 23:50:18.098] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.zinc_ore_desert.maxHeight was corrected from null to 85
+[12Jul2020 23:50:18.098] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.limestone was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.098] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.limestone.enable was corrected from null to true
+[12Jul2020 23:50:18.098] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.limestone.clusterSize was corrected from null to 128
+[12Jul2020 23:50:18.099] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.limestone.clusterChance was corrected from null to 0.03125
+[12Jul2020 23:50:18.099] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.limestone.minHeight was corrected from null to 30
+[12Jul2020 23:50:18.099] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.limestone.maxHeight was corrected from null to 70
+[12Jul2020 23:50:18.099] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.weathered_limestone was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.099] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.weathered_limestone.enable was corrected from null to true
+[12Jul2020 23:50:18.099] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.weathered_limestone.clusterSize was corrected from null to 128
+[12Jul2020 23:50:18.099] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.weathered_limestone.clusterChance was corrected from null to 0.03125
+[12Jul2020 23:50:18.100] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.weathered_limestone.minHeight was corrected from null to 10
+[12Jul2020 23:50:18.100] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.weathered_limestone.maxHeight was corrected from null to 30
+[12Jul2020 23:50:18.100] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.dolomite was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.101] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.dolomite.enable was corrected from null to true
+[12Jul2020 23:50:18.101] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.dolomite.clusterSize was corrected from null to 128
+[12Jul2020 23:50:18.101] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.dolomite.clusterChance was corrected from null to 0.015625
+[12Jul2020 23:50:18.101] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.dolomite.minHeight was corrected from null to 20
+[12Jul2020 23:50:18.101] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.dolomite.maxHeight was corrected from null to 70
+[12Jul2020 23:50:18.101] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.gabbro was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.101] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.gabbro.enable was corrected from null to true
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.gabbro.clusterSize was corrected from null to 128
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.gabbro.clusterChance was corrected from null to 0.015625
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.gabbro.minHeight was corrected from null to 20
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.gabbro.maxHeight was corrected from null to 70
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.scoria was corrected from null to SimpleCommentedConfig:{}
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.scoria.enable was corrected from null to true
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.scoria.clusterSize was corrected from null to 128
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.scoria.clusterChance was corrected from null to 0.03125
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.scoria.minHeight was corrected from null to 0
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.scoria.maxHeight was corrected from null to 10
+[12Jul2020 23:50:18.102] [Server-Worker-1/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.v1.logTeErrors was corrected from null to false
+[12Jul2020 23:50:18.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[12Jul2020 23:50:18.936] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 31.2.31 Target: null
+[12Jul2020 23:50:18.937] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [leap] Starting version check at https://gitlab.com/modding-legacy/supporters/-/raw/master/leap.json
+[12Jul2020 23:50:19.326] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://gitlab.com/modding-legacy/supporters/-/raw/master/leap.json
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_242]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_242]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_242]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1950) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1945) ~[?:1.8.0_242]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1944) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1514) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498) ~[?:1.8.0_242]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_242]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:189) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:206) ~[?:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_242]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:157) [?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://gitlab.com/modding-legacy/supporters/-/raw/master/leap.json
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498) ~[?:1.8.0_242]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480) ~[?:1.8.0_242]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:352) ~[?:1.8.0_242]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:173) ~[?:?]
+	... 3 more
+[12Jul2020 23:50:19.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dash] Starting version check at https://gitlab.com/modding-legacy/supporters/-/raw/master/dash.json
+[12Jul2020 23:50:19.422] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.io.IOException: Server returned HTTP response code: 403 for URL: https://gitlab.com/modding-legacy/supporters/-/raw/master/dash.json
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.8.0_242]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:1.8.0_242]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:1.8.0_242]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1950) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1945) ~[?:1.8.0_242]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1944) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1514) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498) ~[?:1.8.0_242]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268) ~[?:1.8.0_242]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:189) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:206) ~[?:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:1.8.0_242]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:157) [?:?]
+Caused by: java.io.IOException: Server returned HTTP response code: 403 for URL: https://gitlab.com/modding-legacy/supporters/-/raw/master/dash.json
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1900) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498) ~[?:1.8.0_242]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480) ~[?:1.8.0_242]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:352) ~[?:1.8.0_242]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlStream(VersionChecker.java:173) ~[?:?]
+	... 3 more
+[12Jul2020 23:50:20.609] [Render thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[12Jul2020 23:50:20.609] [Render thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[12Jul2020 23:50:20.711] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[12Jul2020 23:50:20.793] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x4 minecraft:textures/atlas/signs.png-atlas
+[12Jul2020 23:50:20.793] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12Jul2020 23:50:20.794] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12Jul2020 23:50:20.794] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[12Jul2020 23:50:20.795] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[12Jul2020 23:50:20.795] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[12Jul2020 23:50:21.251] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[12Jul2020 23:50:21.252] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[12Jul2020 23:50:21.253] [Render thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12Jul2020 23:50:47.562] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
