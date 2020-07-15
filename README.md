@@ -5,10 +5,10 @@ It is recommended to create an empty modpack instance in GDLauncher and use the 
 
 Mods included:
 
---Base Mod
---Create Collision Dev Branch (July 14, 2020)
+Base Mod
+	--Create Collision Dev Branch (July 14, 2020)
     
---Addon Mods
---Wall Jump!
---"To The Bat Poles!"
---ForgeEndertech (libmod)
+Addon Mods
+	--Wall Jump!
+	--"To The Bat Poles!"
+	--ForgeEndertech (libmod)
