@@ -11,4 +11,6 @@ Base Mod
 Addon Mods
 	--Wall Jump!
 	--"To The Bat Poles!"
+	--Quark
 	--ForgeEndertech (libmod)
+	--Autoreglib (libmod)
