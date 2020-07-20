@@ -6,7 +6,7 @@ It is recommended to create an empty modpack instance in GDLauncher and use the 
 Mods included:
 
 Base Mod
-	--Create Collision Dev Branch (July 15, 2020), Contact points and Friction update!
+	--Create Collision Dev Branch (July 19, 2020), Seats and Stepheight Improvements update!
     
 Addon Mods
 	--Wall Jump!
